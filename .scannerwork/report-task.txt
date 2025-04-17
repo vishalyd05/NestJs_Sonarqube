@@ -1,0 +1,6 @@
+projectKey=NestApi
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=NestApi
+ceTaskId=72eb36c5-f2a9-4941-b892-9d2f38abc560
+ceTaskUrl=http://localhost:9000/api/ce/task?id=72eb36c5-f2a9-4941-b892-9d2f38abc560
